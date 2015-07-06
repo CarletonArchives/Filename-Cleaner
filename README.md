@@ -40,9 +40,9 @@ cleanse_settings.txt Instructions
 ---------------------------------
 
 In cleanse_settings.txt there are three sections you can modify:
-EXCLUDES:
-ERROR_CHECK_TIME:
-RELATIVE_PATH_TO_RENAMES:
+ EXCLUDES:
+ ERROR_CHECK_TIME:
+ RELATIVE_PATH_TO_RENAMES:
 
 In EXCLUDES you can put any file or folder names that you would like the name cleanser to check. Note that if you exclude a folder name, the cleanser also will not check anything in that folder. place each entry on a new line.
 
