@@ -1,0 +1,16 @@
+EXCLUDES:
+Thumbs.db
+.DS_Store
+bagit.txt
+manifest-md5.txt
+tagmanifest-md5.txt
+bag-info.txt
+rename.csv
+renames.csv
+
+ERROR_CHECK_TIME:
+1
+
+RELATIVE_PATH_TO_RENAMES:
+data
+meta
