@@ -20,7 +20,7 @@ Derived from Archives Data Accessioner by Liam Everett liam.m.everett@gmail.com 
 Run this program with the following syntax:
 
 "python name_cleanser.py [options] <path>"  
-Options:  
+### Options:  
 - -h, --help
 - -d, --debug
 
@@ -40,9 +40,10 @@ cleanse_settings.txt Instructions
 ---------------------------------
 
 In cleanse_settings.txt there are three sections you can modify:
- EXCLUDES:
- ERROR_CHECK_TIME:
- RELATIVE_PATH_TO_RENAMES:
+
+    EXCLUDES:
+    ERROR_CHECK_TIME:
+    RELATIVE_PATH_TO_RENAMES:
 
 In EXCLUDES you can put any file or folder names that you would like the name cleanser to check. Note that if you exclude a folder name, the cleanser also will not check anything in that folder. place each entry on a new line.
 
