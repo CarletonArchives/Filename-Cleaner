@@ -23,15 +23,28 @@ Instructions on setting up Pyton on your computer can be found here: https://app
 
 
 ##Usage Instructions
-Run this program with the following syntax:
+(Mac) Open a terminal window by navigating to "Applications -> Utilities -> Terminal" and clicking on the Terminal icon
+(PC) Open a command prompt by selecting Start/Run and typing cmd and Enter or Start/Programs/Accessories/Command Prompt.
+
+First navigate in your terminal to the folder in which DroidRunner.py is contained.
+- cd (path to folder containing name_cleanser.py)
+
+Once in the folder containing name_cleanser.py run it with the following syntax:
 
     python name_cleanser.py [options] (path to directory to cleanse)
+    
+or
+
+    python name_cleanser.py (path to directory to cleanse)
+    
+
 #### Options:
 - These are optional, you can run the program without them
-- -h, --help
-  - Will bring up a usage message
-- -d, --debug
-  - will copy the directory that name_cleanser is being run on 
+- if you would like to use them, replace [options] with on eof the following
+    - -h, --help
+        - Will bring up a usage message
+    - -d, --debug
+        - will copy the directory that name_cleanser is being run on 
 
 #### Input:
  - A full path to a directory OR a directory name in the same folder as data_accessioner.py. 
