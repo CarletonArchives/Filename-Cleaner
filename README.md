@@ -1,5 +1,4 @@
-# Filename-Cleaner
-Archives File Name Cleaner
+#Archives File Name Cleaner
 ===========================
 
 Code by Caitlin Donahue caitlindonahue95@gmail.com
@@ -26,7 +25,7 @@ Instructions on setting up Pyton on your computer can be found here: https://app
 (Mac) Open a terminal window by navigating to "Applications -> Utilities -> Terminal" and clicking on the Terminal icon
 (PC) Open a command prompt by selecting Start/Run and typing cmd and Enter or Start/Programs/Accessories/Command Prompt.
 
-First navigate in your terminal to the folder in which DroidRunner.py is contained.
+First navigate in your terminal to the folder in which name_cleanser.py is contained.
 - cd (path to folder containing name_cleanser.py)
 
 Once in the folder containing name_cleanser.py run it with the following syntax:
