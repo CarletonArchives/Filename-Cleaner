@@ -55,7 +55,7 @@ In cleanse_settings.txt there are three sections you can modify:
 
 - In RELATIVE_PATH_TO_RENAMES you control where your renames file will be stored. The renames file will always be stored in the current bag, but you can control the structure of the sub-directories it is stored in. The default for this program is to store the renames files in data/meta under the current bag. If the path defined does not exist the program will create it. Please enter each subdirectory on a seperate line, for example, if we want the path to be data/meta we would have the following:
 
-    RELATIVE_PATH_TO_RENAMES:
-    data
-    meta
+        RELATIVE_PATH_TO_RENAMES:
+        data
+        meta
 
