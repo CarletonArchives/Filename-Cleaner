@@ -14,6 +14,12 @@ Derived from Archives Data Accessioner by Liam Everett liam.m.everett@gmail.com 
 - If the program cannot rename a file for some reason it will store the file path in an errors.csv file in the top directory 
 - Requires cleanse_settings.txt to be in the same folder as name_cleanser.py
 
+##Installing Python
+You will need Python installed on your computer to run this program.
+Python can be found here: https://www.python.org/download/releases/2.7.5/
+or here: https://www.python.org/download/releases/3.2.2/
+
+Instructions on setting up Pyton on your computer can be found here: https://apps.carleton.edu/curricular/cs/resources/source/python_install/
 
 
 ##Usage Instructions
