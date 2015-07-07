@@ -1,5 +1,7 @@
 #Archives File Name Cleaner
-===========================
+
+* auto-gen TOC:
+{:toc}
 
 Code by Caitlin Donahue caitlindonahue95@gmail.com
 
