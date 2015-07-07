@@ -16,12 +16,11 @@ Derived from Archives Data Accessioner by Liam Everett liam.m.everett@gmail.com 
 
 
 
-#Usage Instructions
-------------------
+##Usage Instructions
 Run this program with the following syntax:
 
     python name_cleanser.py [options] (path to directory to cleanse)
-### Options:
+#### Options:
 - These are optional, you can run the program without them
 - -h, --help
   - Will bring up a usage message
